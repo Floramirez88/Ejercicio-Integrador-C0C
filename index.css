@@ -25,7 +25,7 @@ div.derecha-sm {position: absolute;
    text-align: end ;
    font-size: large;
    transform: translate(-50%,-50%);
-   font-size: 12px;
+   font-size: 1em;
     }
   
 
@@ -38,10 +38,12 @@ div.derecha-sm {position: absolute;
        font-family: sans-serif;
        }
        
- .span{font-size: 75px;
+ .span{font-size: 2em;
 
 }
+.ora{font-size: 215%;
 
+}
 
 
 .texto{ background-color: rgba(50,59,63,255);
@@ -82,7 +84,7 @@ div.derecha-sm {position: absolute;
  text-align: center}
 
 .form-control{padding: 6px;
-
+   color: #535353;
 }
 
 .container-fluid-P{
