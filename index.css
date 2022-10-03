@@ -1,0 +1,96 @@
+
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    
+}
+
+
+
+
+
+
+
+.img-fluid-sm{filter:brightness(40%)
+      
+    }
+    
+div.derecha-sm {position: absolute;
+   left: 70%;
+   top: 65%;
+   width: 50%;
+   height: 0;
+   color: #ffffff;
+   text-align: end ;
+   font-size: large;
+   transform: translate(-50%,-50%);
+   font-size: 12px;
+    }
+  
+
+.containerfluid-O{padding: 1;
+    margin-left: 10%
+    no-gutters;
+    font-family: Roboto;}
+.btn-group{height: 20px;
+       padding: bottom 1px;
+       font-family: sans-serif;
+       }
+       
+ .span{font-size: 75px;
+
+}
+
+
+
+.texto{ background-color: rgba(50,59,63,255);
+    font-size: small;
+    font-family:sans-serif;
+    font-weight: 500;
+    font-style: #ffffff;
+}
+
+
+.card-title{font-size: medium;
+
+}
+.card-text{font-size: small;
+
+ }
+.container-formulario {background-color: #ffffff; 
+        color: grey;
+        text-align:center;}
+        
+.textarea::placeholder
+ padding:1% 0 0 0.5%
+ margin:0 auto
+ 
+.re{margin: top 0.5%;
+     font-size: 15px;
+   
+  }
+.btn-enviar{
+    background-color: #5acf4fe8;
+    color:rgb(255, 255, 255);
+ border: 0px;
+ border-radius: 4px;
+ font-size: 24px;
+ padding: 1
+ height: 40px;
+ width:625px;
+ text-align: center}
+
+.form-control{padding: 6px;
+
+}
+
+.container-fluid-P{
+    background-color: #154360;
+    color: white;
+    font: 15px;  
+    align-items: center;
+    padding-top: 5;
+    position: relative;
+    
+ }
